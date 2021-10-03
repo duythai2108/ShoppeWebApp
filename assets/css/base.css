@@ -1,0 +1,20 @@
+:root {
+    --white-color : #fff;
+    --black-color : #000;
+    --text-color : #333;
+
+}
+* {
+    /* Ke thua tu the chua no */
+    box-sizing: inherit;
+}
+html {
+    /* Hack */
+    font-size: 62.5%;
+    line-height: 1.6rem ; 
+    /* Roboto la font vua chon.sans-serif la chung khong chan */
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+
