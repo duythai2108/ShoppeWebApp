@@ -28,7 +28,7 @@ html {
         opacity: 0;
     }
     to {
-        opacity: 1;
+        opacity: 1; 
     }
 }
 @keyframes growth {
@@ -72,7 +72,7 @@ html {
 
 /* Button stlye */
 .btn {
-    min-width: 142px;
+    min-width: 124px;
     height: 34px;
     border: none;
     text-decoration: none;
